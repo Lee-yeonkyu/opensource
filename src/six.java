@@ -6,7 +6,7 @@ public class six {
 		a +=3;
 		b *=3;
 		c %=2;
-		System.out.println("a="+ a + ",b=" + b +", c=" + c);
+		System.out.println("a="+ a + " ,b=" + b +", c=" + c);
 		
 		int d=3;
 		a=d++;
